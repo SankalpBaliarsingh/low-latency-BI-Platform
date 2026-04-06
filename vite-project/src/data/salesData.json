@@ -1,0 +1,14 @@
+[
+  {"Region": "North", "Category": "Electronics", "Product": "Laptop", "Month": "2025-01", "Revenue": 45000, "Units": 30, "Profit": 12000},
+  {"Region": "North", "Category": "Electronics", "Product": "Phone", "Month": "2025-01", "Revenue": 32000, "Units": 80, "Profit": 9600},
+  {"Region": "North", "Category": "Furniture", "Product": "Desk", "Month": "2025-01", "Revenue": 18000, "Units": 40, "Profit": 5400},
+  {"Region": "South", "Category": "Electronics", "Product": "Laptop", "Month": "2025-01", "Revenue": 38000, "Units": 25, "Profit": 10200},
+  {"Region": "South", "Category": "Furniture", "Product": "Chair", "Month": "2025-01", "Revenue": 22000, "Units": 55, "Profit": 7700},
+  {"Region": "South", "Category": "Clothing", "Product": "Jacket", "Month": "2025-02", "Revenue": 15000, "Units": 100, "Profit": 6000},
+  {"Region": "East", "Category": "Electronics", "Product": "Tablet", "Month": "2025-02", "Revenue": 27000, "Units": 45, "Profit": 8100},
+  {"Region": "East", "Category": "Clothing", "Product": "Shirt", "Month": "2025-02", "Revenue": 12000, "Units": 200, "Profit": 4800},
+  {"Region": "West", "Category": "Furniture", "Product": "Sofa", "Month": "2025-03", "Revenue": 52000, "Units": 20, "Profit": 18200},
+  {"Region": "West", "Category": "Electronics", "Product": "Phone", "Month": "2025-03", "Revenue": 41000, "Units": 95, "Profit": 12300},
+  {"Region": "North", "Category": "Clothing", "Product": "Shoes", "Month": "2025-03", "Revenue": 19000, "Units": 150, "Profit": 7600},
+  {"Region": "East", "Category": "Furniture", "Product": "Desk", "Month": "2025-03", "Revenue": 16000, "Units": 35, "Profit": 4800}
+]

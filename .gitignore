@@ -1,0 +1,4 @@
+.env
+express-project/node_modules/
+vite-project/node_modules/
+vite-project/Notes
